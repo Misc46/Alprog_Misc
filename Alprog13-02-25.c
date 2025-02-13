@@ -64,22 +64,26 @@ int main()
             printf("\nApakah anda ingin membuat gambar dari output? \n1. Yes \n2. No \n");
             scanf("%d", &opt);
             if (opt <= 2 && opt >= 1)
-            { //Gambar
+            { // Gambar
 
-                
                 int i, j;
-                res = res+2;
-                for(i=0;i<res;i++){
-                    if(i==0 || i == res-1){
-                        for(j=0; j<=res-3;j++){
+                res = res + 2;
+                for (i = 0; i < res; i++)
+                {
+                    if (i == 0 || i == res - 1)
+                    {
+                        for (j = 0; j <= res - 3; j++)
+                        {
                             printf("*");
-                        } printf("\n");
-                    } else {
+                        }
+                        printf("\n");
+                    }
+                    else
+                    {
                         printf("*\n");
                     }
                 }
                 break;
-
             }
             else
             {

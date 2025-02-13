@@ -2,4 +2,6 @@
 
 ## Brainrot-Calculator
 >Done 
-##
+## Cherry's game
+>In progress
+## 

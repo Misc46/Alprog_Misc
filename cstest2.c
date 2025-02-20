@@ -68,7 +68,8 @@ void inputMatrix(int r, int c, float matrix[r][c])
     }
 }
 
-void printMatrix(int r, int c, float matrix[r][c]){
+void printMatrix(int r, int c, float matrix[r][c])
+{
     for (int i = 0; i < r; i++)
     {
         for (int j = 0; j < c; j++)
@@ -79,7 +80,8 @@ void printMatrix(int r, int c, float matrix[r][c]){
     }
 }
 
-int main(){
+int main()
+{
     int size;
     printf("Tolong input ukuran matriks persegi yang di inginkan: ");
     scanf("%d", &size);

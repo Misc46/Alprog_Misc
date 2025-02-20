@@ -41,7 +41,7 @@ int main()
     }
     char options[2];
     printf("do you want to make an alien tree? Y/N :");
-    scanf("%s", &options);
+    scanf("%1s", options);
     if (strcmp(options, "Y") == 0)
     {
         printf("Printing Drawing\n");

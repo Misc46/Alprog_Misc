@@ -94,4 +94,6 @@ int main()
     diaMultiply(r, c, matrix);
     transMatrix(r, c, matrix);
     printMatrix(r, c, matrix);
+
+    return 0;
 }

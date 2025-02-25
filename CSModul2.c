@@ -55,8 +55,7 @@ void operasi(float matrix[3][3], float finalDet){
     {
         for (int j = 0; j < 3; j++)
         {
-            float temp = matrix[i][j] / finalDet;
-            matrix[i][j] = temp;
+            matrix[i][j] /= finalDet; //Andrew's implementation
         }
     }
 }

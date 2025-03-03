@@ -17,3 +17,8 @@
 
 ## CS2 Matriks 3 x 3
 >Done (no CSR 6 minutes early)
+
+## TP3, CS Selasa, CS Rabu FOR PRACTICE
+>Done (No CSR time for all <40 mins)
+
+## CS3

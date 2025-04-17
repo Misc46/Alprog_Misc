@@ -210,4 +210,3 @@ int main() {
 ---
 
 ## Terima Kasih!
-Semoga membantu dan selamat mengerjakan CS7! 🎴🃏

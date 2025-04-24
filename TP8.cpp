@@ -8,7 +8,6 @@
 
 using namespace std;
 
-// Implementation of Dosen class
 Dosen::Dosen(string name, int id)
 {
     this->name = name;
@@ -30,7 +29,6 @@ void Dosen::setId(int id)
     this->id = id;
 }
 
-// Implementation of Kelas class
 Kelas::Kelas(string namaKelas, float nilai, int sks, Dosen dosen)
     : dosen(dosen)
 {

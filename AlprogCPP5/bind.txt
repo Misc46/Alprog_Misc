@@ -1,0 +1,14 @@
+google.com@192.168.56.2
+yahoo.com@10.0.0.3
+bing.com@172.16.5.4
+example.com@192.168.1.5
+openai.com@10.1.1.6
+microsoft.com@172.20.0.7
+apple.com@192.168.0.8
+amazon.com@10.0.5.9
+facebook.com@172.16.10.10
+twitter.com@192.168.100.11
+linkedin.com@10.10.10.12
+netflix.com@172.18.0.13
+github.com@192.168.2.14
+stackoverflow.com@10.2.2.15
